@@ -1,11 +1,21 @@
 # Spa
 Simple SPA for searching Marvel and DC Heros.
 
+Link to the app (hosted on Google Firebase hosting):
+https://spa-comic-app.web.app/
+
+
 -Animated.css
 -Basic searching function
 -Reused components
 -Data comes from a internal service, not externally.
 -Fully responsive
+
+Using:
+-Angular 9
+-Bootstrap
+-jQuery
+-Popper
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
 
